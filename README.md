@@ -32,12 +32,6 @@ You need both parts: the `.pak` holds the main text, and the Lua mod sets the te
 - Characters created before you installed keep their old name spacing over their heads ("NiuGuang"). New characters, and everyone in a new game, show "Niu Guang".
 - Two spots the game builds in its own code can't be changed from text: skill requirements show as "Intelligence3", and the skill type line may show a wide colon after "Type".
 
-## What's in this repo
-
-| Folder | What's in it |
-|---|---|
-| `mod/` | The ready-to-use mod, the same files as the Release zip. |
-| `translation/` | The English text (`EasternEra_en.json`, keyed by line), per-row fixes (`row_overrides.json`) and the glossary of every term decision (`glossary.md`). |
-| `tools/` | The scripts used to build the mod. |
+The same two parts are also in the `mod` folder of this page, if you'd rather copy them from here.
 
 Translation by FishFishFish.
