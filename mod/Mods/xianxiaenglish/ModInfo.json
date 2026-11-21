@@ -1,0 +1,21 @@
+{
+	"ModId": "xianxiaenglish",
+	"ModName": "Xianxia English",
+	"Version": "2.0.0",
+	"Author": "FishFishFish",
+	"Description": "A new English translation of the whole game, from the Chinese. Part 2 of 2: text the language file can't reach, plus layout fixes so long English fits. Needs pakchunk990-XianxiaEnglish-Windows_P.pak in Content\\Paks.",
+	"Icon": "",
+	"MainLuaFile": "Main.lua",
+	"ModInformationAssetPath": "",
+	"NewGameLoad": true,
+	"MinGameVersion": "1.3",
+	"IncludeGameplayTags": false,
+	"GameplayTagsIniFile": "",
+	"AdditionalAssets": [],
+	"Dependencies": [],
+	"DataTableConfigs": [],
+	"DataAssetConfigs": [],
+	"ModToolVersion": "1.0.0",
+	"LocalOverride": true,
+	"LogLevel": "Log"
+}
